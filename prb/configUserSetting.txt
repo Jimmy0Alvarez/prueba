@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "git.autorefresh": true,
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "breadcrumbs.enabled": false,
+    "editor.linkedEditing": true,
+    "editor.tabSize": 4,
+    "editor.renderLineHighlight": "gutter",
+    "editor.smoothScrolling": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.snippetSuggestions": "top",
+    "editor.hover.enabled": true,
+    "editor.fontSize": 16
+}
+
+liveServer
+live Preview
+Github Codespaces
+Chrome Codespaces Keymap
